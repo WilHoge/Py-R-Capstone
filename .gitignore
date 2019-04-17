@@ -2,3 +2,5 @@
 run-docker.sh
 311.csv
 311_Service_Requests_from_2010_to_Present.csv
+.ipynb_checkpoints/Q1 analysis-checkpoint.ipynb
+.ipynb_checkpoints/reduce 311 dataset-checkpoint.ipynb
